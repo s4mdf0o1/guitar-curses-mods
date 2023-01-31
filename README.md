@@ -3,7 +3,7 @@ A Python Curses, Guitar Mods visualisation
 
 Dirty code, but works well for me :P
 
-use '+' '-', to chenge note
+use '+' '-', to change note
 
 '*', '/', to change mode
 
